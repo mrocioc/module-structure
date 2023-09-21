@@ -1,1 +1,1 @@
-# module-structure
+# module_structure
